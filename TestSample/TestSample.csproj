@@ -47,11 +47,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="gmap">
-      <HintPath>..\grxsdk\inc\gmap.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\grxsdk\inc\gmap.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="gmdb">
-      <HintPath>..\grxsdk\inc\gmdb.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\grxsdk\inc\gmdb.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
